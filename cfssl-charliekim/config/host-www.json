@@ -1,0 +1,20 @@
+{
+  "CN": "www.charliekim.org",
+  "key": {
+    "algo": "rsa",
+    "size": 2048
+  },
+  "names": [
+  {
+    "C": "US",
+    "L": "Acton",
+    "O": "CharlieKim",
+    "OU": "CharlieKim Root CA",
+    "ST": "Mass"
+  }
+  ],
+  "hosts": [
+    "www.charliekim.org",
+    "localhost"
+  ]
+}

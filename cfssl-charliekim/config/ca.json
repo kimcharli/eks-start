@@ -1,0 +1,16 @@
+{
+  "CN": "CharlieKim Root CA",
+  "key": {
+    "algo": "rsa",
+    "size": 2048
+  },
+  "names": [
+  {
+    "C": "US",
+    "L": "Acton",
+    "O": "CharlieKim",
+    "OU": "CharlieKim Root CA",
+    "ST": "Mass"
+  }
+ ]
+}
